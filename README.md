@@ -24,7 +24,7 @@ The morph command accepts the following values for `<action>`:
 | `grow`              | Increases the size of any Pawn actor under the sender's crosshairs.                                                                                |
 | `shrink`            | Same as above, but decreases size.                                                                                                                 |
 | `reset`             | Resets player size and collision.                                                                                                                  |
-| `cow`               | Changes player model to Nali Cow. Skin is randomised.                                                                                              |
+| `cow`               | Changes player model to Nali WarCow. Skin is randomised.                                                                                              |
 | `nali`              | Changes player model to Nali Priest. Skin is randomised.                                                                                           |
 | `skaarj`            | Changes player model to Skaarj Hybrid. Skin is randomised.                                                                                         |
 | `<class>`           | Attempts to change player model to the specified class. For example, `UnrealI.Squid` will change to Squid model. Class names are case insensitive. |

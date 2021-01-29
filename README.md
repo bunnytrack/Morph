@@ -12,8 +12,6 @@ It has since grown in size with other goofy/fun ideas, including:
 
 This mod was made for the sole purpose of goofing around, and uploaded in the hope that it may help others learn more about UnrealScript.
 
-Made with ❤️.
-
 ## Commands
 
 ### `mutate morph <action>`
